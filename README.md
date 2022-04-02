@@ -175,24 +175,40 @@
 ### 📱 Liens vers mes réseaux :
 
 <!--- Youtube --->
-<a href="https://www.youtube.com/channel/UCehcL1Wn6HDFNB-Qdni3-Lw#gh-light-mode-only" title="Youtube">
+<a href="https://www.youtube.com/channel/UCehcL1Wn6HDFNB-Qdni3-Lw#gh-dark-mode-only" title="Youtube">
     <img alt="Youtube" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/a_youtube_light.svg" height="30">
+</a>
+<!--- Youtube --->
+<a href="https://www.youtube.com/channel/UCehcL1Wn6HDFNB-Qdni3-Lw#gh-light-mode-only" title="Youtube">
+    <img alt="Youtube" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/a_youtube_dark.svg" height="30">
 </a>
 
 
 <!--- Twitch --->
-<a href="https://www.twitch.tv/lam0uette_#gh-light-mode-only" title="Twitch">
+<a href="https://www.twitch.tv/lam0uette_#gh-dark-mode-only" title="Twitch">
     <img alt="Twitch" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/a_twitch_light.svg" height="30">
+</a>
+<!--- Twitch --->
+<a href="https://www.twitch.tv/lam0uette_#gh-light-mode-only" title="Twitch">
+    <img alt="Twitch" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/a_twitch_dark.svg" height="30">
 </a>
 
 
 <!--- LinkedIn --->
-<a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-light-mode-only" title="LinkedIn">
+<a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-dark-mode-only" title="LinkedIn">
     <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/a_linkedin_light.svg" height="30">
+</a>
+<!--- LinkedIn --->
+<a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-light-mode-only" title="LinkedIn">
+    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/a_linkedin_dark.svg" height="30">
 </a>
 
 
 <!--- Gmail --->
-<a href="https://www.google.com/intl/fr/gmail/about/#gh-light-mode-only" title="Gmail">
+<a href="https://www.google.com/intl/fr/gmail/about/#gh-dark-mode-only" title="Gmail">
 <img alt="Gmail" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/a_gmail_light.svg" height="30">
+</a>
+<!--- Gmail --->
+<a href="https://www.google.com/intl/fr/gmail/about/#gh-light-mode-only" title="Gmail">
+<img alt="Gmail" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/a_gmail_dark.svg" height="30">
 </a>
