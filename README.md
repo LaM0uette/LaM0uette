@@ -167,8 +167,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaM0uette&theme=onedark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaM0uette)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaM0uette&theme=onedark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaM0uette)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaM0uette&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaM0uette&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ***
 
