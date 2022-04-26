@@ -71,21 +71,33 @@
 </a>
 
 
-<!--- RubyMine --->
-<a href="https://www.jetbrains.com/ruby/" title="RubyMine">
-    <img alt="RubyMine" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/rubymine.svg" width="50" height="50">
-</a>
-
-
 <!--- GoLand --->
 <a href="https://www.jetbrains.com/go/" title="GoLand">
     <img alt="GoLand" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/goland.svg" width="50" height="50">
 </a>
 
 
+<!--- Rider --->
+<a href="https://www.jetbrains.com/rider/" title="Rider">
+    <img alt="Rider" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/rider.svg" width="50" height="50">
+</a>
+
+
+<!--- WebStorm --->
+<a href="https://www.jetbrains.com/webstorm/" title="WebStorm">
+    <img alt="WebStorm" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/webstorm.svg" width="50" height="50">
+</a>
+
+
 <!--- DataGrip --->
 <a href="https://www.jetbrains.com/datagrip/" title="DataGrip">
     <img alt="DataGrip" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/datagrip.svg" width="50" height="50">
+</a>
+
+
+<!--- RubyMine --->
+<a href="https://www.jetbrains.com/ruby/" title="RubyMine">
+    <img alt="RubyMine" src="https://github.com/LaM0uette/LaM0uette/blob/main/assets/img/rubymine.svg" width="50" height="50">
 </a>
 
 
