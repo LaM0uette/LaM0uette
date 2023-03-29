@@ -34,7 +34,7 @@
 
 <!--- Python --->
 <a href="https://www.python.org" title="Python">
-    <img alt="Python" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/python.svg" width="50" height="50">
+    <img alt="Python" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Python.svg" width="50" height="50">
 </a>
 
 <!--- SQL --->
