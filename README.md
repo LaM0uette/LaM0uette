@@ -2,22 +2,23 @@
 
 <br/>
 
-### 👋 Salut ! Moi c'est LaM0uette (enfin ça c'est mon "pseudo" hein)
+### 👋 Salut ! Moi c'est LaM0uette (enfin ça c'est mon "pseudo" bien sûr !)
 
 ***
 
 #### 📄 ***Mes infos*** :
-💡 J'adore apprendre et développer de nouvelles choses, mon but est de rendre   
-&nbsp;&nbsp;&nbsp;&nbsp; certaines choses du quotidien plus facile en créent des nouvelles applications et divers outils.   
+💡 J'adore apprendre et développer de nouvelles choses. Mon but est de rendre   
+&nbsp;&nbsp;&nbsp;&nbsp; certains aspects du quotidien plus faciles en créant
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; des applications et divers outils innovants.   
 
-👨‍🎓 J'ai fais mes études dans le dessins industriel (Bac Pro EDPI > BTS CPI).    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aujourd'hui je m'oriente exclusivement à la programmation en tout genre.   
+👨‍🎓 J'ai fait mes études en dessin industriel (Bac Pro EDPI > BTS CPI).    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aujourd'hui, je m'oriente exclusivement vers la programmation en général.   
 
-🌱 Mon but est d'apprendre sans cesses afin d'être le plus polyvalent et performant que possible.
+🌱 Mon objectif est d'apprendre sans cesse afin d'être le plus polyvalent et performant possible.
 
-🎮 Je fais également sur mon temps perdu des Stream et vidéos à la fois sur de la programmation    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; mais aussi sur des jeux vidéos ou j'ajoute une touche de programmation        
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; afin de rendre le contenu plus riche et diversifié.    
+🎮 Sur mon temps libre, je développe des jeux et applications principalement en C#.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; J'utilise essentiellement Unity pour la création de mes jeux        
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; et WPF pour les applications.     
 
 ***
 
