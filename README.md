@@ -79,7 +79,7 @@
 
 <!--- Unity --->
 <a href="https://unity.com/fr" title="Unity">
-    <img alt="Unity" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Unity.svg" width="50" height="50">
+    <img alt="Unity" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/Unity.svg" width="50" height="50">
 </a>
 
 <!--- Git --->
@@ -99,22 +99,22 @@
 
 <!--- Flaticon --->
 <a href="https://www.adobe.com/fr/products/premiere.html" title="Flaticon Pro">
-    <img alt="Flaticon" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Flaticon.svg" width="50" height="50">
+    <img alt="Flaticon" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Divers/Flaticon.svg" width="50" height="50">
 </a>
 
 <!--- Excel --->
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" title="Excel">
-    <img alt="Excel" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Excel.svg" width="50" height="50">
+    <img alt="Excel" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/Excel.svg" width="50" height="50">
 </a>
 
 <!--- Word --->
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/word" title="Word">
-    <img alt="Word" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Word.svg" width="50" height="50">
+    <img alt="Word" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/Word.svg" width="50" height="50">
 </a>
 
 <!--- Access --->
 <a href="" title="Access">
-    <img alt="Access" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Access.svg" width="50" height="50">
+    <img alt="Access" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/Access.svg" width="50" height="50">
 </a>
 
 <!--- Oracle --->
@@ -139,32 +139,32 @@
 
 <!--- Illustrator --->
 <a href="https://www.adobe.com/fr/products/illustrator.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP5pFuDJ2_cSnmwMUvmW6SNGvgaClISfFPv1766YxHquwCzOQByADzRoCBhcQAvD_BwE&mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAjwoduRBhA4EiwACL5RP5pFuDJ2_cSnmwMUvmW6SNGvgaClISfFPv1766YxHquwCzOQByADzRoCBhcQAvD_BwE:G:s&s_kwcid=AL!3085!3!394518377028!e!!g!!illustrator!1478148655!58836721124" title="Illustrator">
-    <img alt="Illustrator" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Illustrator.svg" width="50" height="50">
+    <img alt="Illustrator" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/Illustrator.svg" width="50" height="50">
 </a>
 
 <!--- Photoshop --->
 <a href="https://www.adobe.com/fr/products/photoshop/landpb.html?gclid=CjwKCAjwoduRBhA4EiwACL5RPwxEtVqQqkH0xqs9ZKlxvaaZNfoOQG9Vpns4Qs6Of9XyRk4QEGivUxoC-u0QAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjwoduRBhA4EiwACL5RPwxEtVqQqkH0xqs9ZKlxvaaZNfoOQG9Vpns4Qs6Of9XyRk4QEGivUxoC-u0QAvD_BwE:G:s&s_kwcid=AL!3085!3!341240721086!e!!g!!photoshop!1435912275!56537390339" title="Photoshop">
-    <img alt="Photoshop" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Photoshop.svg" width="50" height="50">
+    <img alt="Photoshop" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/Photoshop.svg" width="50" height="50">
 </a>
 
 <!--- Adobe XD --->
 <a href="https://www.adobe.com/fr/products/xd.html" title="Adobe Xd">
-    <img alt="AdobeXD" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Xd.svg" width="50" height="50">
+    <img alt="AdobeXD" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/Xd.svg" width="50" height="50">
 </a>
 
 <!--- Indesign --->
 <a href="https://www.adobe.com/fr/products/indesign.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE&mv=search&mv=search&sdid=LCDWTLJX&ef_id=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE:G:s&s_kwcid=AL!3085!3!341217014074!e!!g!!indesign!1435912704!58952470471" title="Indesign">
-    <img alt="Indesign" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Indesign.svg" width="50" height="50">
+    <img alt="Indesign" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/Indesign.svg" width="50" height="50">
 </a>
 
 <!--- Premiere Pro --->
 <a href="https://www.adobe.com/fr/products/premiere.html" title="Premiere Pro">
-    <img alt="PremierePro" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/PremierePro.svg" width="50" height="50">
+    <img alt="PremierePro" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/PremierePro.svg" width="50" height="50">
 </a>
 
 <!--- After Effects --->
 <a href="https://www.adobe.com/fr/products/aftereffects.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP_GTtUzL9eQme-9VnNCJEp97F73ZL8Ce6zhcNZgSz9F3V9_VZAnHQhoCbJAQAvD_BwE&mv=search&mv=search&sdid=MYYBRYZH&ef_id=CjwKCAjwoduRBhA4EiwACL5RP_GTtUzL9eQme-9VnNCJEp97F73ZL8Ce6zhcNZgSz9F3V9_VZAnHQhoCbJAQAvD_BwE:G:s&s_kwcid=AL!3085!3!394610560754!e!!g!!after%20effects!1435912503!56537405219" title="After Effects">
-    <img alt="AfterEffects" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/AfterEffects.svg" width="50" height="50">
+    <img alt="AfterEffects" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Logiciels/AfterEffects.svg" width="50" height="50">
 </a>
 
 ***
@@ -181,41 +181,11 @@
 
 ### 📱 Liens vers mes réseaux :
 
-<!--- Youtube --->
-<a href="https://www.youtube.com/channel/UCehcL1Wn6HDFNB-Qdni3-Lw#gh-dark-mode-only" title="Youtube">
-    <img alt="Youtube" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/a_youtube_light.svg" height="30">
-</a>
-<!--- Youtube --->
-<a href="https://www.youtube.com/channel/UCehcL1Wn6HDFNB-Qdni3-Lw#gh-light-mode-only" title="Youtube">
-    <img alt="Youtube" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/a_youtube_dark.svg" height="30">
-</a>
-
-
-<!--- Twitch --->
-<a href="https://www.twitch.tv/lam0uette_#gh-dark-mode-only" title="Twitch">
-    <img alt="Twitch" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/a_twitch_light.svg" height="30">
-</a>
-<!--- Twitch --->
-<a href="https://www.twitch.tv/lam0uette_#gh-light-mode-only" title="Twitch">
-    <img alt="Twitch" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/a_twitch_dark.svg" height="30">
-</a>
-
-
 <!--- LinkedIn --->
 <a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-dark-mode-only" title="LinkedIn">
-    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/a_linkedin_light.svg" height="30">
+    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinLight.svg" height="30">
 </a>
 <!--- LinkedIn --->
 <a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-light-mode-only" title="LinkedIn">
-    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/a_linkedin_dark.svg" height="30">
-</a>
-
-
-<!--- Gmail --->
-<a href="https://www.google.com/intl/fr/gmail/about/#gh-dark-mode-only" title="Gmail">
-<img alt="Gmail" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/a_gmail_light.svg" height="30">
-</a>
-<!--- Gmail --->
-<a href="https://www.google.com/intl/fr/gmail/about/#gh-light-mode-only" title="Gmail">
-<img alt="Gmail" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/a_gmail_dark.svg" height="30">
+    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinDark.svg" height="30">
 </a>
