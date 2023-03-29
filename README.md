@@ -182,11 +182,11 @@
 ### 📱 Liens vers mes réseaux :
 
 <!--- doriandevillele.fr --->
-<a href="https://doriandevillele.fr" title="doriandevillele.fr">
+<a href="https://doriandevillele.fr#gh-dark-mode-only" title="doriandevillele.fr">
     <img alt="doriandevillele.fr" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/SiteWebLight.svg" height="30">
 </a>
 <!--- doriandevillele.fr --->
-<a href="https://doriandevillele.fr" title="doriandevillele.fr">
+<a href="https://doriandevillele.fr#gh-light-mode-only" title="doriandevillele.fr">
     <img alt="doriandevillele.fr" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/SiteWebDark.svg" height="30">
 </a>
 
