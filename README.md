@@ -7,18 +7,17 @@
 ***
 
 #### 📄 ***Mes infos*** :
-💡 J'adore apprendre et développer de nouvelles choses. Mon but est de rendre       
-&nbsp;&nbsp;&nbsp;&nbsp; certains aspects du quotidien plus faciles en créant       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; des applications et divers outils innovants.   
+💡 J'adore apprendre et développer de nouvelles choses. Mon but est de rendre certains aspects  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;du quotidien plus faciles en créant des **applications** et divers **outils innovants**.
 
-👨‍🎓 J'ai fait mes études en dessin industriel (Bac Pro EDPI > BTS CPI).    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aujourd'hui, je m'oriente exclusivement vers la programmation en général.   
+👨‍🎓 J'ai fait mes études en dessin industriel (**Bac Pro EDPI** > **BTS CPI**).    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aujourd'hui, je m'oriente exclusivement vers la **programmation** en général.   
 
-🌱 Mon objectif est d'apprendre sans cesse afin d'être le plus polyvalent et performant possible.           
+🌱 Mon objectif est d'**apprendre** sans cesse afin d'être le plus **polyvalent** et **performant** possible.           
 
-🎮 Sur mon temps libre, je développe des jeux et applications principalement en C#.       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; J'utilise essentiellement Unity pour la création de mes jeux         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; et WPF pour les applications.       
+🎮 Sur mon temps libre, je développe des **jeux** et **applications** principalement en **C#**.       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'utilise essentiellement **Unity** pour la création de mes jeux         
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;et **WPF** pour les applications.       
 
 ***
 
