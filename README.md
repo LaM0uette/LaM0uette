@@ -198,3 +198,22 @@
 <a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-light-mode-only" title="LinkedIn">
     <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinDark.svg" height="30">
 </a>
+
+<span style="position: relative; display: inline-block; overflow: hidden; cursor: pointer;">
+  <a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-dark-mode-only" title="LinkedIn">
+    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinDark.svg" height="30" style="display: block; transition: transform 0.3s;">
+  </a>
+  <span style="position: absolute; bottom: 0; left: 0; width: 100%; height: 2px; background: #0077b5; transform: scaleX(0); transform-origin: left; transition: transform 0.3s;"></span>
+</span>
+
+<script>
+  const linkedInSpan = document.querySelector('span');
+  linkedInSpan.addEventListener('mouseover', () => {
+    linkedInSpan.querySelector('img').style.transform = 'translateY(-2px)';
+    linkedInSpan.querySelector('span').style.transform = 'scaleX(1)';
+  });
+  linkedInSpan.addEventListener('mouseout', () => {
+    linkedInSpan.querySelector('img').style.transform = '';
+    linkedInSpan.querySelector('span').style.transform = 'scaleX(0)';
+  });
+</script>
