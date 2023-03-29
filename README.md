@@ -1,4 +1,4 @@
-<img src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Banner/Banner.svg" alt="Logo">
+<img src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Banner/Banner.png" alt="Logo">
 
 <br/>
 
