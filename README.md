@@ -16,8 +16,7 @@
 🌱 Mon objectif est d'**apprendre** sans cesse afin d'être le plus **polyvalent** et **performant** possible.           
 
 🎮 Sur mon temps libre, je développe des **jeux** et **applications** principalement en **C#**.       
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'utilise essentiellement **Unity** pour la création de mes jeux         
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;et **WPF** pour les applications.       
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;J'utilise essentiellement **Unity** pour la création de mes jeux et **WPF** pour les applications.       
 
 ***
 
