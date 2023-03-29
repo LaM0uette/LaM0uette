@@ -22,149 +22,130 @@
 
 ### 🖥 Les logiciels/langages que j'utilises :
 
-<!--- Python --->
-<a href="https://www.python.org" title="Python">
-    <img alt="Python" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/python.svg" width="50" height="50">
+<!--- C# --->
+<a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" title="C#">
+    <img alt="C#" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/c-sharp.svg" width="50" height="50">
 </a>
 
+<!--- Python --->
+<a href="https://www.python.org" title="Python">
+    <img alt="Python" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/python.svg" width="50" height="50">
+</a>
 
 <!--- VBA --->
 <a href="https://docs.microsoft.com/fr-fr/office/vba/api/overview/" title="VBA">
     <img alt="VBA" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/vba.svg" width="50" height="50">
 </a>
 
-
 <!--- BATCH --->
 <a href="https://fr.wikipedia.org/wiki/.bat" title="Batch">
     <img alt="Batch" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/batch.svg" width="50" height="50">
 </a>
-
 
 <!--- SQL --->
 <a href="https://sql.sh" title="SQL">
     <img alt="SQL" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/sql.svg" width="50" height="50">
 </a>
 
-
 <!--- HTML5 --->
 <a href="https://fr.wikipedia.org/wiki/HTML5" title="HTML5">
     <img alt="HTML5" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/html.svg" width="50" height="50">
 </a>
-
 
 <!--- CSS --->
 <a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade#:~:text=CSS3%20devient%20«%20modulaire%20»%2C%20afin,des%20sous-ensembles%20de%20CSS3." title="CSS">
     <img alt="CSS" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/css.svg" width="50" height="50">
 </a>
 
-
 <!--- REGEX --->
 <a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
     <img alt="REGEX" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/regex.svg" width="50" height="50">
 </a>
-
 
 <!--- PyCharm --->
 <a href="https://www.jetbrains.com/pycharm/" title="PyCharm">
     <img alt="PyCharm" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/pycharm.svg" width="50" height="50">
 </a>
 
-
 <!--- GoLand --->
 <a href="https://www.jetbrains.com/go/" title="GoLand">
     <img alt="GoLand" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/goland.svg" width="50" height="50">
 </a>
-
 
 <!--- Rider --->
 <a href="https://www.jetbrains.com/rider/" title="Rider">
     <img alt="Rider" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/rider.svg" width="50" height="50">
 </a>
 
-
 <!--- WebStorm --->
 <a href="https://www.jetbrains.com/webstorm/" title="WebStorm">
     <img alt="WebStorm" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/webstorm.svg" width="50" height="50">
 </a>
-
 
 <!--- DataGrip --->
 <a href="https://www.jetbrains.com/datagrip/" title="DataGrip">
     <img alt="DataGrip" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/datagrip.svg" width="50" height="50">
 </a>
 
-
 <!--- RubyMine --->
 <a href="https://www.jetbrains.com/ruby/" title="RubyMine">
     <img alt="RubyMine" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/rubymine.svg" width="50" height="50">
 </a>
-
 
 <!--- Datalore --->
 <a href="https://datalore.jetbrains.com" title="Datalore">
     <img alt="Datalore" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/datalore.svg" width="50" height="50">
 </a>
 
-
 <!--- Flaticon --->
 <a href="https://www.adobe.com/fr/products/premiere.html" title="Flaticon Pro">
     <img alt="Flaticon" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/flaticon.svg" width="50" height="50">
 </a>
-
 
 <!--- Qt --->
 <a href="https://www.qt.io" title="Qt">
     <img alt="Qt" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/qt.svg" width="50" height="50">
 </a>
 
-
 <!--- GitHub --->
 <a href="https://github.com/LaM0uette" title="GitHub">
     <img alt="GitHub" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/github.svg" width="50" height="50">
 </a>
-
 
 <!--- Excel --->
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" title="Excel">
     <img alt="Excel" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/excel.svg" width="50" height="50">
 </a>
 
-
 <!--- Word --->
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/word" title="Word">
     <img alt="Word" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/word.svg" width="50" height="50">
 </a>
-
 
 <!--- Illustrator --->
 <a href="https://www.adobe.com/fr/products/illustrator.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP5pFuDJ2_cSnmwMUvmW6SNGvgaClISfFPv1766YxHquwCzOQByADzRoCBhcQAvD_BwE&mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAjwoduRBhA4EiwACL5RP5pFuDJ2_cSnmwMUvmW6SNGvgaClISfFPv1766YxHquwCzOQByADzRoCBhcQAvD_BwE:G:s&s_kwcid=AL!3085!3!394518377028!e!!g!!illustrator!1478148655!58836721124" title="Illustrator">
     <img alt="Illustrator" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/illustrator.svg" width="50" height="50">
 </a>
 
-
 <!--- Photoshop --->
 <a href="https://www.adobe.com/fr/products/photoshop/landpb.html?gclid=CjwKCAjwoduRBhA4EiwACL5RPwxEtVqQqkH0xqs9ZKlxvaaZNfoOQG9Vpns4Qs6Of9XyRk4QEGivUxoC-u0QAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjwoduRBhA4EiwACL5RPwxEtVqQqkH0xqs9ZKlxvaaZNfoOQG9Vpns4Qs6Of9XyRk4QEGivUxoC-u0QAvD_BwE:G:s&s_kwcid=AL!3085!3!341240721086!e!!g!!photoshop!1435912275!56537390339" title="Photoshop">
     <img alt="Photoshop" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/photoshop.svg" width="50" height="50">
 </a>
-
 
 <!--- Adobe XD --->
 <a href="https://www.adobe.com/fr/products/xd.html" title="Adobe XD">
     <img alt="AdobeXD" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/xd.svg" width="50" height="50">
 </a>
 
-
 <!--- Indesign --->
 <a href="https://www.adobe.com/fr/products/indesign.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE&mv=search&mv=search&sdid=LCDWTLJX&ef_id=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE:G:s&s_kwcid=AL!3085!3!341217014074!e!!g!!indesign!1435912704!58952470471" title="Indesign">
     <img alt="Indesign" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/indesign.svg" width="50" height="50">
 </a>
 
-
 <!--- Premiere Pro --->
 <a href="https://www.adobe.com/fr/products/premiere.html" title="Premiere Pro">
     <img alt="PremierePro" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/premiere_pro.svg" width="50" height="50">
 </a>
-
 
 <!--- After Effects --->
 <a href="https://www.adobe.com/fr/products/aftereffects.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP_GTtUzL9eQme-9VnNCJEp97F73ZL8Ce6zhcNZgSz9F3V9_VZAnHQhoCbJAQAvD_BwE&mv=search&mv=search&sdid=MYYBRYZH&ef_id=CjwKCAjwoduRBhA4EiwACL5RP_GTtUzL9eQme-9VnNCJEp97F73ZL8Ce6zhcNZgSz9F3V9_VZAnHQhoCbJAQAvD_BwE:G:s&s_kwcid=AL!3085!3!394610560754!e!!g!!after%20effects!1435912503!56537405219" title="After Effects">
