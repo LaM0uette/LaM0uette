@@ -181,43 +181,8 @@
 
 ### 📱 Liens vers mes réseaux :
 
-<style>
-  .linkedin-img {
-    position: relative;
-    display: inline-block;
-    overflow: hidden;
-    cursor: pointer;
-  }
-
-  .linkedin-img img {
-    display: block;
-    transition: transform 0.3s;
-  }
-
-  .linkedin-img::after {
-    content: '';
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 2px;
-    background: #0077b5;
-    transform: scaleX(0);
-    transform-origin: left;
-    transition: transform 0.3s;
-  }
-
-  .linkedin-img:hover img {
-    transform: translateY(-2px);
-  }
-
-  .linkedin-img:hover::after {
-    transform: scaleX(1);
-  }
-</style>
-
 <!--- LinkedIn --->
-<a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-dark-mode-only" title="LinkedIn" class="linkedin-img">
+<a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-dark-mode-only" title="LinkedIn">
     <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinLight.svg" height="30">
 </a>
 <!--- LinkedIn --->
