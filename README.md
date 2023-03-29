@@ -34,7 +34,7 @@
 
 <!--- Python --->
 <a href="https://www.python.org" title="Python">
-    <img alt="Python" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Python.svg" width="50" height="50">
+    <img alt="Python" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/python.svg" width="50" height="50">
 </a>
 
 <!--- SQL --->
@@ -112,6 +112,11 @@
     <img alt="Word" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Word.svg" width="50" height="50">
 </a>
 
+<!--- Access --->
+<a href="" title="Access">
+    <img alt="Access" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Access.svg" width="50" height="50">
+</a>
+
 <!--- Oracle --->
 <a href="https://www.oracle.com/fr/database/technologies/appdev/sql.html" title="Oracle">
     <img alt="Oracle" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Oracle.svg" width="50" height="50">
@@ -122,19 +127,14 @@
     <img alt="PostgreSQL" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/PostgreSQL.svg" width="50" height="50">
 </a>
 
+<!--- MySql --->
+<a href="https://www.mysql.com/fr/" title="MySql">
+    <img alt="MySql" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/MySql.svg" width="50" height="50">
+</a>
+
 <!--- Sqlite --->
 <a href="https://www.sqlite.org/index.html" title="Sqlite">
     <img alt="Sqlite" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Sqlite.svg" width="50" height="50">
-</a>
-
-<!--- Access --->
-<a href="" title="Access">
-    <img alt="Access" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Access.svg" width="50" height="50">
-</a>
-
-<!--- Access --->
-<a href="https://www.microsoft.com/fr-fr/microsoft-365/access" title="Access">
-    <img alt="Access" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Access.svg" width="50" height="50">
 </a>
 
 <!--- Illustrator --->
