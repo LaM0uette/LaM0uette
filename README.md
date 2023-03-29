@@ -183,9 +183,9 @@
 
 <!--- LinkedIn --->
 <a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-dark-mode-only" title="LinkedIn">
-    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinLight.svg" height="30">
+    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinDark.svg" height="30">
 </a>
 <!--- LinkedIn --->
 <a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-light-mode-only" title="LinkedIn">
-    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinDark.svg" height="30">
+    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinLight.svg" height="30">
 </a>
