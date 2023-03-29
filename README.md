@@ -183,7 +183,7 @@
 
 <!--- LinkedIn --->
 <a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-dark-mode-only" title="LinkedIn">
-    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinLight.svg" height="30">
+    <img alt="LinkedIn" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/LinkedinLight.svg" height="30" style="opacity: 1; transition: opacity 0.3s; cursor: pointer;" onmouseover="this.style.opacity='0.7';" onmouseout="this.style.opacity='1';">
 </a>
 <!--- LinkedIn --->
 <a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-light-mode-only" title="LinkedIn">
