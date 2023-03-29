@@ -190,7 +190,7 @@
     <img alt="doriandevillele.fr" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Links/SiteWebDark.svg" height="30">
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<br/>
 
 <!--- LinkedIn --->
 <a href="https://fr.linkedin.com/in/dorian-de-villele-5b6b71ab#gh-dark-mode-only" title="LinkedIn">
