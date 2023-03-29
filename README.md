@@ -129,7 +129,7 @@
 
 <!--- MySql --->
 <a href="https://www.mysql.com/fr/" title="MySql">
-    <img alt="MySql" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/MySql.svg" width="50" height="50">
+    <img alt="MySql" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/MySQL.svg" width="50" height="50">
 </a>
 
 <!--- Sqlite --->
