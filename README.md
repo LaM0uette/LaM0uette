@@ -77,59 +77,94 @@
     <img alt="PHP" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/PHP.svg" width="50" height="50">
 </a>
 
+<!--- Unity --->
+<a href="https://unity.com/fr" title="Unity">
+    <img alt="Unity" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Unity.svg" width="50" height="50">
+</a>
+
+<!--- Git --->
+<a href="https://git-scm.com" title="Git">
+    <img alt="Git" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Git.svg" width="50" height="50">
+</a>
+
 <!--- BATCH --->
 <a href="https://fr.wikipedia.org/wiki/.bat" title="Batch">
     <img alt="Batch" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Batch.svg" width="50" height="50">
 </a>
 
-<!--- PyCharm --->
-<a href="https://www.jetbrains.com/pycharm/" title="PyCharm">
-    <img alt="PyCharm" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/pycharm.svg" width="50" height="50">
+<!--- JetBrains --->
+<a href="https://www.jetbrains.com" title="JetBrains">
+    <img alt="JetBrains" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/JetBrains.svg" width="50" height="50">
 </a>
 
 <!--- Flaticon --->
 <a href="https://www.adobe.com/fr/products/premiere.html" title="Flaticon Pro">
-    <img alt="Flaticon" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/flaticon.svg" width="50" height="50">
+    <img alt="Flaticon" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Flaticon.svg" width="50" height="50">
 </a>
 
 <!--- Excel --->
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/excel" title="Excel">
-    <img alt="Excel" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/excel.svg" width="50" height="50">
+    <img alt="Excel" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Excel.svg" width="50" height="50">
 </a>
 
 <!--- Word --->
 <a href="https://www.microsoft.com/fr-fr/microsoft-365/word" title="Word">
-    <img alt="Word" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/word.svg" width="50" height="50">
+    <img alt="Word" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Word.svg" width="50" height="50">
+</a>
+
+<!--- Oracle --->
+<a href="https://www.oracle.com/fr/database/technologies/appdev/sql.html" title="Oracle">
+    <img alt="Oracle" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Oracle.svg" width="50" height="50">
+</a>
+
+<!--- PostgreSQL --->
+<a href="https://www.postgresql.org" title="PostgreSQL">
+    <img alt="PostgreSQL" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/PostgreSQL.svg" width="50" height="50">
+</a>
+
+<!--- Sqlite --->
+<a href="https://www.sqlite.org/index.html" title="Sqlite">
+    <img alt="Sqlite" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Sqlite.svg" width="50" height="50">
+</a>
+
+<!--- Access --->
+<a href="" title="Access">
+    <img alt="Access" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Access.svg" width="50" height="50">
+</a>
+
+<!--- Access --->
+<a href="https://www.microsoft.com/fr-fr/microsoft-365/access" title="Access">
+    <img alt="Access" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Access.svg" width="50" height="50">
 </a>
 
 <!--- Illustrator --->
 <a href="https://www.adobe.com/fr/products/illustrator.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP5pFuDJ2_cSnmwMUvmW6SNGvgaClISfFPv1766YxHquwCzOQByADzRoCBhcQAvD_BwE&mv=search&mv=search&sdid=KCJMVLF6&ef_id=CjwKCAjwoduRBhA4EiwACL5RP5pFuDJ2_cSnmwMUvmW6SNGvgaClISfFPv1766YxHquwCzOQByADzRoCBhcQAvD_BwE:G:s&s_kwcid=AL!3085!3!394518377028!e!!g!!illustrator!1478148655!58836721124" title="Illustrator">
-    <img alt="Illustrator" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/illustrator.svg" width="50" height="50">
+    <img alt="Illustrator" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Illustrator.svg" width="50" height="50">
 </a>
 
 <!--- Photoshop --->
 <a href="https://www.adobe.com/fr/products/photoshop/landpb.html?gclid=CjwKCAjwoduRBhA4EiwACL5RPwxEtVqQqkH0xqs9ZKlxvaaZNfoOQG9Vpns4Qs6Of9XyRk4QEGivUxoC-u0QAvD_BwE&mv=search&mv=search&sdid=LZ32SYVR&ef_id=CjwKCAjwoduRBhA4EiwACL5RPwxEtVqQqkH0xqs9ZKlxvaaZNfoOQG9Vpns4Qs6Of9XyRk4QEGivUxoC-u0QAvD_BwE:G:s&s_kwcid=AL!3085!3!341240721086!e!!g!!photoshop!1435912275!56537390339" title="Photoshop">
-    <img alt="Photoshop" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/photoshop.svg" width="50" height="50">
+    <img alt="Photoshop" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Photoshop.svg" width="50" height="50">
 </a>
 
 <!--- Adobe XD --->
-<a href="https://www.adobe.com/fr/products/xd.html" title="Adobe XD">
-    <img alt="AdobeXD" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/xd.svg" width="50" height="50">
+<a href="https://www.adobe.com/fr/products/xd.html" title="Adobe Xd">
+    <img alt="AdobeXD" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Xd.svg" width="50" height="50">
 </a>
 
 <!--- Indesign --->
 <a href="https://www.adobe.com/fr/products/indesign.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE&mv=search&mv=search&sdid=LCDWTLJX&ef_id=CjwKCAjwoduRBhA4EiwACL5RP9FQxZh9_W4OadWRPXBbxfCpTE20fcVlXLnrWlXtHBBoxJNfBE97zBoC95EQAvD_BwE:G:s&s_kwcid=AL!3085!3!341217014074!e!!g!!indesign!1435912704!58952470471" title="Indesign">
-    <img alt="Indesign" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/indesign.svg" width="50" height="50">
+    <img alt="Indesign" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Indesign.svg" width="50" height="50">
 </a>
 
 <!--- Premiere Pro --->
 <a href="https://www.adobe.com/fr/products/premiere.html" title="Premiere Pro">
-    <img alt="PremierePro" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/premiere_pro.svg" width="50" height="50">
+    <img alt="PremierePro" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/PremierePro.svg" width="50" height="50">
 </a>
 
 <!--- After Effects --->
 <a href="https://www.adobe.com/fr/products/aftereffects.html?gclid=CjwKCAjwoduRBhA4EiwACL5RP_GTtUzL9eQme-9VnNCJEp97F73ZL8Ce6zhcNZgSz9F3V9_VZAnHQhoCbJAQAvD_BwE&mv=search&mv=search&sdid=MYYBRYZH&ef_id=CjwKCAjwoduRBhA4EiwACL5RP_GTtUzL9eQme-9VnNCJEp97F73ZL8Ce6zhcNZgSz9F3V9_VZAnHQhoCbJAQAvD_BwE:G:s&s_kwcid=AL!3085!3!394610560754!e!!g!!after%20effects!1435912503!56537405219" title="After Effects">
-    <img alt="AfterEffects" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/after_effects.svg" width="50" height="50">
+    <img alt="AfterEffects" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/AfterEffects.svg" width="50" height="50">
 </a>
 
 ***
