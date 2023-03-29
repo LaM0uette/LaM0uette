@@ -20,46 +20,66 @@
 
 ***
 
-### 🖥 Les logiciels/langages que j'utilises :
+### 🖥 Les logiciels/langages que j'utilise :
 
 <!--- C# --->
 <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" title="C#">
     <img alt="C#" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/c-sharp.svg" width="50" height="50">
 </a>
 
+<!--- WPF --->
+<a href="https://learn.microsoft.com/fr-fr/dotnet/desktop/wpf/overview/?view=netdesktop-7.0" title="WPF">
+    <img alt="WPF" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/WPF.svg" width="50" height="50">
+</a>
+
 <!--- Python --->
 <a href="https://www.python.org" title="Python">
-    <img alt="Python" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/python.svg" width="50" height="50">
-</a>
-
-<!--- VBA --->
-<a href="https://docs.microsoft.com/fr-fr/office/vba/api/overview/" title="VBA">
-    <img alt="VBA" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/vba.svg" width="50" height="50">
-</a>
-
-<!--- BATCH --->
-<a href="https://fr.wikipedia.org/wiki/.bat" title="Batch">
-    <img alt="Batch" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/batch.svg" width="50" height="50">
+    <img alt="Python" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Python.svg" width="50" height="50">
 </a>
 
 <!--- SQL --->
 <a href="https://sql.sh" title="SQL">
-    <img alt="SQL" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/sql.svg" width="50" height="50">
+    <img alt="SQL" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/SQL.svg" width="50" height="50">
 </a>
 
-<!--- HTML5 --->
-<a href="https://fr.wikipedia.org/wiki/HTML5" title="HTML5">
-    <img alt="HTML5" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/html.svg" width="50" height="50">
+<!--- Golang --->
+<a href="https://go.dev" title="Golang">
+    <img alt="Golang" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Golang.svg" width="50" height="50">
 </a>
 
-<!--- CSS --->
-<a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade#:~:text=CSS3%20devient%20«%20modulaire%20»%2C%20afin,des%20sous-ensembles%20de%20CSS3." title="CSS">
-    <img alt="CSS" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/css.svg" width="50" height="50">
+<!--- VBA --->
+<a href="https://docs.microsoft.com/fr-fr/office/vba/api/overview/" title="VBA">
+    <img alt="VBA" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/VBA.svg" width="50" height="50">
 </a>
 
 <!--- REGEX --->
 <a href="https://fr.wikipedia.org/wiki/Expression_régulière" title="REGEX">
-    <img alt="REGEX" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/regex.svg" width="50" height="50">
+    <img alt="REGEX" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Regex.svg" width="50" height="50">
+</a>
+
+<!--- HTML5 --->
+<a href="https://fr.wikipedia.org/wiki/HTML5" title="HTML5">
+    <img alt="HTML5" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/HTML.svg" width="50" height="50">
+</a>
+
+<!--- CSS --->
+<a href="https://fr.wikipedia.org/wiki/Feuilles_de_style_en_cascade#:~:text=CSS3%20devient%20«%20modulaire%20»%2C%20afin,des%20sous-ensembles%20de%20CSS3." title="CSS">
+    <img alt="CSS" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/CSS.svg" width="50" height="50">
+</a>
+
+<!--- JavaScript --->
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" title="JavaScript">
+    <img alt="JavaScript" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/JavaScript.svg" width="50" height="50">
+</a>
+
+<!--- PHP --->
+<a href="https://www.php.net/manual/fr/intro-whatis.php" title="PHP">
+    <img alt="PHP" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/PHP.svg" width="50" height="50">
+</a>
+
+<!--- BATCH --->
+<a href="https://fr.wikipedia.org/wiki/.bat" title="Batch">
+    <img alt="Batch" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/Prog/Batch.svg" width="50" height="50">
 </a>
 
 <!--- PyCharm --->
@@ -67,49 +87,9 @@
     <img alt="PyCharm" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/pycharm.svg" width="50" height="50">
 </a>
 
-<!--- GoLand --->
-<a href="https://www.jetbrains.com/go/" title="GoLand">
-    <img alt="GoLand" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/goland.svg" width="50" height="50">
-</a>
-
-<!--- Rider --->
-<a href="https://www.jetbrains.com/rider/" title="Rider">
-    <img alt="Rider" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/rider.svg" width="50" height="50">
-</a>
-
-<!--- WebStorm --->
-<a href="https://www.jetbrains.com/webstorm/" title="WebStorm">
-    <img alt="WebStorm" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/webstorm.svg" width="50" height="50">
-</a>
-
-<!--- DataGrip --->
-<a href="https://www.jetbrains.com/datagrip/" title="DataGrip">
-    <img alt="DataGrip" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/datagrip.svg" width="50" height="50">
-</a>
-
-<!--- RubyMine --->
-<a href="https://www.jetbrains.com/ruby/" title="RubyMine">
-    <img alt="RubyMine" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/rubymine.svg" width="50" height="50">
-</a>
-
-<!--- Datalore --->
-<a href="https://datalore.jetbrains.com" title="Datalore">
-    <img alt="Datalore" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/datalore.svg" width="50" height="50">
-</a>
-
 <!--- Flaticon --->
 <a href="https://www.adobe.com/fr/products/premiere.html" title="Flaticon Pro">
     <img alt="Flaticon" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/flaticon.svg" width="50" height="50">
-</a>
-
-<!--- Qt --->
-<a href="https://www.qt.io" title="Qt">
-    <img alt="Qt" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/qt.svg" width="50" height="50">
-</a>
-
-<!--- GitHub --->
-<a href="https://github.com/LaM0uette" title="GitHub">
-    <img alt="GitHub" src="https://github.com/LaM0uette/LaM0uette/blob/master/assets/img/github.svg" width="50" height="50">
 </a>
 
 <!--- Excel --->
